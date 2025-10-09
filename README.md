@@ -41,6 +41,7 @@
   Applying Reinforcement Learning and NLP on financial news and historical time series to optimize portfolio allocation strategies using deep learning and statistical methods.
 
 ---
+## 📌 Pinned Repositories
 
 > Most of my work is private due to ongoing projects, my full-time role, and entrepreneurial ideas.  
 > The repos listed here are older (some 2+ years old) and mostly simple experiments — I dedicate my energy to private, high-impact work.
