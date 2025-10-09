@@ -42,6 +42,20 @@
 
 ---
 
+> Most of my work is private due to ongoing projects, my full-time role, and entrepreneurial ideas.  
+> The repos listed here are older (some 2+ years old) and mostly simple experiments — I dedicate my energy to private, high-impact work.
+
+- [![GitHub Repo](https://img.shields.io/badge/GiveMeSomeCreditDataset-EDA%20&%20Prediction-blue?style=for-the-badge&logo=github)](https://github.com/guinik/GiveMeSomeCreditDataset)  
+  Small exploratory data analysis and prediction modeling on the GiveMeSomeCredit dataset.
+
+- [![GitHub Repo](https://img.shields.io/badge/Portfolio%20Analyzer-Image%20Classification-green?style=for-the-badge&logo=github)](https://github.com/guinik/Image-Classification-with-Transformers)  
+  Early ML experiments using Transformers for image classification.
+
+- [![GitHub Repo](https://img.shields.io/badge/Translation%20Using%20Transformers-Project-orange?style=for-the-badge&logo=github)](https://github.com/guinik/Translation-using-Transformers)  
+  Translation using Transformers.
+
+
+---
 ## 🎓 Education
 
 ![MSc](https://img.shields.io/badge/MSc-Data%20Science-4AB197?style=for-the-badge)  
