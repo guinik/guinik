@@ -38,7 +38,7 @@
   Developing a scalable web platform with PostgreSQL. Focused on schema design, query optimization, and robust product architecture.  
 
 - **Master Thesis: Portfolio Optimization with NLP & Financial Time Series -- PRIVATE**  
-  Applying NLP on financial news and historical time series to optimize portfolio allocation strategies using deep learning and statistical methods.
+  Applying Reinforcement Learning and NLP on financial news and historical time series to optimize portfolio allocation strategies using deep learning and statistical methods.
 
 ---
 
