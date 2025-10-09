@@ -5,8 +5,7 @@
 
 
 [<img src="https://img.icons8.com/ios-filled/25/0A66C2/linkedin.png" alt="LinkedIn"/> LinkedIn](https://linkedin.com/in/alex-esteban-folch-809788254/) •
-[<img src="https://img.icons8.com/ios-glyphs/25/EA4335/gmail.png" alt="Email"/> calexef@gmail.com](mailto:calexef@gmail.com) •
-[<img src="https://img.icons8.com/ios-filled/25/FAB005/worldwide-location.png" alt="Location"/> Barcelona, Spain](#)
+[<img src="https://img.icons8.com/ios-glyphs/25/EA4335/gmail.png" alt="Email"/> calexef@gmail.com](mailto:calexef@gmail.com) 
 ---
 
 ## 🧰 Skills & Technologies
