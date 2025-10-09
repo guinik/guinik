@@ -27,6 +27,8 @@
 
 ## 💻 Projects
 
+> Most of my work is private due to project confidentiality, so only a few examples are listed here.  
+
 - **NoSQL App (Firebase) -- PRIVATE**  
   Built a full MVP app using Firebase, including database design, backend integration, and frontend development.  
 
@@ -57,6 +59,8 @@
 ---
 
 ## 📊 GitHub Stats
+
+> Disclaimer: My GitHub stats may not reflect my full experience because most projects are private.  
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=guinik&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guinik&layout=compact&theme=radical)
