@@ -46,14 +46,17 @@
 > Most of my work is private due to ongoing projects, my full-time role, and entrepreneurial ideas.  
 > The repos listed here are older (some 2+ years old) and mostly simple experiments — I dedicate my energy to private, high-impact work.
 
-[![GiveMeSomeCreditDataset](https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=GiveMeSomeCreditDataset&theme=radical)](https://github.com/guinik/GiveMeSomeCreditDataset)  
-Small exploratory data analysis and prediction modeling on the GiveMeSomeCredit dataset.
-
-[![Image-Classification-with-Transformers](https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Image-Classification-with-Transformers&theme=radical)](https://github.com/guinik/Image-Classification-with-Transformers)  
-Early ML experiments using Transformers for image classification.
-
-[![Translation-using-Transformers](https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Translation-using-Transformers&theme=radical)](https://github.com/guinik/Translation-using-Transformers)  
-Translation using Transformers.
+<p float="left">
+  <a href="https://github.com/guinik/GiveMeSomeCreditDataset">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=GiveMeSomeCreditDataset&theme=radical&width=300" />
+  </a>
+  <a href="https://github.com/guinik/Image-Classification-with-Transformers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Image-Classification-with-Transformers&theme=radical&width=300" />
+  </a>
+  <a href="https://github.com/guinik/Translation-using-Transformers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Translation-using-Transformers&theme=radical&width=300" />
+  </a>
+</p>
 
 ---
 ## 🎓 Education
