@@ -41,25 +41,19 @@
   Applying Reinforcement Learning and NLP on financial news and historical time series to optimize portfolio allocation strategies using deep learning and statistical methods.
 
 ---
-## 📌 Pinned Repositories & GitHub Stats
+## 📌 Pinned Repositories
 
 > Most of my work is private due to ongoing projects, my full-time role, and entrepreneurial ideas.  
 > The repos listed here are older (some 2+ years old) and mostly simple experiments — I dedicate my energy to private, high-impact work.
 
-<!-- Pinned Repositories -->
-<a href="https://github.com/guinik/GiveMeSomeCreditDataset">
-  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/GiveMeSomeCreditDataset-EDA%20&%20Prediction-blue?style=for-the-badge&logo=github" />
-</a>
+[![GiveMeSomeCreditDataset](https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=GiveMeSomeCreditDataset&theme=radical)](https://github.com/guinik/GiveMeSomeCreditDataset)  
+Small exploratory data analysis and prediction modeling on the GiveMeSomeCredit dataset.
 
-<a href="https://github.com/guinik/Image-Classification-with-Transformers">
-  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/Portfolio%20Analyzer-Image%20Classification-green?style=for-the-badge&logo=github" />
-</a>
+[![Image-Classification-with-Transformers](https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Image-Classification-with-Transformers&theme=radical)](https://github.com/guinik/Image-Classification-with-Transformers)  
+Early ML experiments using Transformers for image classification.
 
-<a href="https://github.com/guinik/Translation-using-Transformers">
-  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/Translation%20Using%20Transformers-Project-orange?style=for-the-badge&logo=github" />
-</a>
-
-<br>
+[![Translation-using-Transformers](https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Translation-using-Transformers&theme=radical)](https://github.com/guinik/Translation-using-Transformers)  
+Translation using Transformers.
 
 ---
 ## 🎓 Education
