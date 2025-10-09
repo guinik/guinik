@@ -1,9 +1,11 @@
 # Hi 👋, I'm Alex Esteban Folch
 
-**AI Scientist & Data Scientist**  
+**AI Scientist & Data Scientist** ⚡  
 📍 Barcelona, Spain  
-✉️ [calexef@gmail.com](mailto:calexef@gmail.com)  
-[LinkedIn](https://linkedin.com/in/alex-esteban-folch-809788254/)  
+
+[<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn"/>](https://linkedin.com/in/alex-esteban-folch-809788254/)
+[<img src="https://img.icons8.com/ios-glyphs/30/EA4335/gmail.png" alt="Email"/>](mailto:calexef@gmail.com)
+[<img src="https://img.icons8.com/ios-filled/30/FAB005/worldwide-location.png" alt="Location"/>](#)
 
 ---
 
