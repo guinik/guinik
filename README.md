@@ -47,16 +47,16 @@
 
 <p float="left">
   <a href="https://github.com/guinik/GiveMeSomeCreditDataset">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=GiveMeSomeCreditDataset&theme=radical&width=300" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=GiveMeSomeCreditDataset&theme=radical" width="300" />
   </a>
   <a href="https://github.com/guinik/Image-Classification-with-Transformers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Image-Classification-with-Transformers&theme=radical&width=300" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Image-Classification-with-Transformers&theme=radical" width="300" />
   </a>
   <a href="https://github.com/guinik/Translation-using-Transformers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Translation-using-Transformers&theme=radical&width=300" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Translation-using-Transformers&theme=radical" width="300" />
   </a>
   <a href="https://github.com/guinik/TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem&theme=radical&width=300" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem&theme=radical" width="300" />
   </a>
 </p>
 
