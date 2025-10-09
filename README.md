@@ -45,20 +45,22 @@
 > Most of my work is private due to ongoing projects, my full-time role, and entrepreneurial ideas.  
 > The repos listed here are older (some 2+ years old) and mostly simple experiments — I dedicate my energy to private, high-impact work. But will try to make up some time for small data sciency projects.
 
-<p float="left">
+<p align="left">
   <a href="https://github.com/guinik/GiveMeSomeCreditDataset">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=GiveMeSomeCreditDataset&theme=radical" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=GiveMeSomeCreditDataset&theme=radical" width="400" align="middle" />
   </a>
   <a href="https://github.com/guinik/Image-Classification-with-Transformers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Image-Classification-with-Transformers&theme=radical" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Image-Classification-with-Transformers&theme=radical" width="400" align="middle" />
   </a>
   <a href="https://github.com/guinik/Translation-using-Transformers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Translation-using-Transformers&theme=radical" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=Translation-using-Transformers&theme=radical" width="400" align="middle" />
   </a>
   <a href="https://github.com/guinik/TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem&theme=radical" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guinik&repo=TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem&theme=radical" width="400" align="middle" />
   </a>
 </p>
+
+
 
 ---
 ## 🎓 Education
