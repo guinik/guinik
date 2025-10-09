@@ -30,6 +30,10 @@
 
 > Most of my work is private due to project confidentiality, so only a few examples are listed here.  
 
+- **BSc Final Project: Restricted Boltzmann Machines for Quantum Many-Body States**  
+  [View PDF](https://github.com/guinik/TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem/blob/main/Alex_Esteban_Folch_TFG.pdf)  
+  Implemented Restricted Boltzmann Machines to model quantum many-body states, analyzed Information Geometry and learning landscapes, applied Stochastic Reconfiguration & Monte Carlo sampling, and studied Quantum Fisher Matrix spectra and entanglement entropy.
+
 - **NoSQL App (Firebase) -- PRIVATE**  
   Built a full MVP app using Firebase, including database design, backend integration, and frontend development.  
 
@@ -39,7 +43,6 @@
 - **Master Thesis: Portfolio Optimization with NLP & Financial Time Series -- PRIVATE**  
   Applying Reinforcement Learning and NLP on financial news and historical time series to optimize portfolio allocation strategies using deep learning and statistical methods.
 
----
 ## 📌 Pinned Repositories
 
 > Most of my work is private due to ongoing projects, my full-time role, and entrepreneurial ideas.  
