@@ -45,8 +45,7 @@
 
 ## 📌 Pinned Repositories
 
-> Most of my work is private due to ongoing projects, my full-time role, and entrepreneurial ideas.  
-> The repos listed here are older (some 2+ years old) and mostly simple experiments — I dedicate my energy to private, high-impact work. But will try to make up some time for small data sciency projects.
+> The repos listed here are older (some 2+ years old) and mostly simple experiments. But will try to make up some time for small data sciency projects.
 
 <p align="left">
   <a href="https://github.com/guinik/GiveMeSomeCreditDataset">
