@@ -83,15 +83,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-> Disclaimer: My GitHub stats may not reflect my full experience because most projects are private.  
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=guinik&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guinik&layout=compact&theme=radical)
-
----
-
 ## ⚡ Fun Fact
 
 - I enjoy building AI apps from scratch, exploring new ML architectures, and optimizing code for high-performance systems.  
