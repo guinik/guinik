@@ -55,6 +55,9 @@
     <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem&theme=radical" width="410" />
   </a>
   <a href="https://github.com/guinik/GiveMeSomeCreditDataset">
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=MNIST-Pure-C-Implementation-with-Autograd&theme=radical" width="410" />
+  </a>
+  <a href="https://github.com/guinik/GiveMeSomeCreditDataset">
     <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=GiveMeSomeCreditDataset&theme=radical" width="410" />
   </a>
   <a href="https://github.com/guinik/Image-Classification-with-Transformers">
