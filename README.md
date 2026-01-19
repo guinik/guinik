@@ -63,6 +63,9 @@
   <a href="https://github.com/guinik/Image-Classification-with-Transformers">
     <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=Image-Classification-with-Transformers&theme=radical" width="410" />
   </a>
+  <a href="https://github.com/guinik/MiniMathLang-Compiler">
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=MiniMathLang-Compiler&theme=radical" width="410" />
+  </a>
 </p>
 
 
