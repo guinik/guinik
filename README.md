@@ -73,7 +73,7 @@
 ## 🎓 Education
 
 ![MSc](https://img.shields.io/badge/MSc-Data%20Science-4AB197?style=for-the-badge)  
-**Universitat Oberta de Catalunya** (2024– Jan 2026)  
+**Universitat Oberta de Catalunya** (2024–2026)  
 
 ![BSc](https://img.shields.io/badge/BSc-Physics-4A90E2?style=for-the-badge)  
 **Universitat de Barcelona** (2020–2024)  
