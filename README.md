@@ -34,7 +34,7 @@
 
 <p align="left">
   <a href="https://github.com/guinik/kubernetes-ml-microservices">
-    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=kubernetes-ml-microservices&theme=radical" width="410" />
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=kubernetes-ml-microservices&theme=radical&reset=true" width="410" />
   </a>
   <a href="https://github.com/guinik/FastAPI-Docker-Manager">
     <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=FastAPI-Docker-Manager&theme=radical" width="410" />
@@ -78,7 +78,7 @@
 
   - **[GlobalFunders](https://global-funders.com) — Entrepreneur-Investor Matching Platform**                                                                       Platform connecting ambitious founders with investors and funding finders. Built with React and Supabase. Focused on making meaningful early-stage partnerships accessible.
                                                                                                                                                                       - **ML Inference Platform on Kubernetes**
-    [kubernetes-ml-microservices](https://github.com/guinik/kubernetes-ml-microservices)
+    [Kubernetes-ML-Microservices](https://github.com/guinik/kubernetes-ml-microservices)
     Two FastAPI microservices serving a Groq LLM, containerised with Docker and deployed on Kubernetes with HPA, PodDisruptionBudgets, rolling updates, and full AWS EKS infrastructure provisioned via Terraform.
 
   - **BSc Final Project: Restricted Boltzmann Machines for Quantum Many-Body States**
