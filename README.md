@@ -77,8 +77,8 @@
   preferences.
 
   - **[GlobalFunders](https://global-funders.com) — Entrepreneur-Investor Matching Platform**                                                                       Platform connecting ambitious founders with investors and funding finders. Built with React and Supabase. Focused on making meaningful early-stage partnerships accessible.
-                                                                                                                                                                      - **ML Inference Platform on Kubernetes**
-    [Kubernetes-ML-Microservices](https://github.com/guinik/kubernetes-ml-microservices)
+    
+  - [Kubernetes-ML-Microservices](https://github.com/guinik/kubernetes-ml-microservices) - **ML Inference Platform on Kubernetes**
     Two FastAPI microservices serving a Groq LLM, containerised with Docker and deployed on Kubernetes with HPA, PodDisruptionBudgets, rolling updates, and full AWS EKS infrastructure provisioned via Terraform.
 
   - **BSc Final Project: Restricted Boltzmann Machines for Quantum Many-Body States**
