@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alex Esteban Folch
 
-**ML Engineer & Data Scientist** ⚡  
+**ML Engineer & Data Scientist**
 📍 Barcelona, Spain  
 
 
