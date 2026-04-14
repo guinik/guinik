@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alex Esteban Folch
+# Hi 👋, I'm Alex Esteban Folch!
 
 **ML Engineer & Data Scientist** 
 📍 Barcelona, Spain   
