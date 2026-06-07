@@ -34,25 +34,28 @@
 
 <p align="left">
   <a href="https://github.com/guinik/kubernetes-ml-microservices">
-    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=kubernetes-ml-microservices&theme=radical&reset=true" width="410" />
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=kubernetes-ml-microservices&theme=radical&reset=true&a=1" width="410" />
   </a>
   <a href="https://github.com/guinik/FastAPI-Docker-Manager">
-    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=FastAPI-Docker-Manager&theme=radical" width="410" />
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=FastAPI-Docker-Manager&theme=radical&a=1" width="410" />
   </a>
   <a href="https://github.com/guinik/TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem">
-    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem&theme=radical" width="410" />
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=TFG-Restricted-Boltzmann-Machines-and-their-Information-Geometry-in-Quantum-Many-Body-Problem&theme=radical&a=1" width="410" />
   </a>
   <a href=https://github.com/guinik/MNIST-Pure-C-Implementation-with-Autograd>
-    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=MNIST-Pure-C-Implementation-with-Autograd&theme=radical&v=2" width="410" />
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=MNIST-Pure-C-Implementation-with-Autograd&theme=radical&v=2&a=1" width="410" />
   </a>
   <a href="https://github.com/guinik/GiveMeSomeCreditDataset">
-    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=GiveMeSomeCreditDataset&theme=radical" width="410" />
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=GiveMeSomeCreditDataset&theme=radical&a=1" width="410" />
   </a>
   <a href="https://github.com/guinik/Image-Classification-with-Transformers">
-    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=Image-Classification-with-Transformers&theme=radical" width="410" />
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=Image-Classification-with-Transformers&theme=radical&a=1" width="410" />
   </a>
   <a href="https://github.com/guinik/MiniMathLang-Compiler">
-    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=MiniMathLang-Compiler&theme=radical" width="410" />
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=MiniMathLang-Compiler&theme=radical&a=1" width="410" />
+  </a>
+  <a href="https://github.com/guinik/CPP-HTTP-Server">
+    <img src="https://github-readme-stats-five-nu-55.vercel.app/api/pin/?username=guinik&repo=CPP-HTTP-Server&theme=radical&a=1" width="410" />
   </a>
 </p>
 
